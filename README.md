@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Princeskydon8
+- 👋 Hi, I’m Prince Sky Sithole
 - 👀 I’m interested in web and app development. 
 - 🌱 I’m currently learning full stack development.
+-  A journey of a thousand miles begins with a step.
 - 💞️ I’m looking to collaborate on various interesting projects.
 - 📫 How to reach me email is princeskydon8@gmail.com
 -  Phone number is 0773168791 for both calls and whatsapp messages. 
